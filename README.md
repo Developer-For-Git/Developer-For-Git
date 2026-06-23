@@ -28,7 +28,9 @@
 name: Developer-For-Git
 role: Open-Source Developer & Privacy Advocate
 focus: Building free tools that respect user privacy
-motto: "Code should be free. Privacy should be default."
+workflow: "100% AI Vibe Coding ⚡"
+dark_truth: "I don't actually know any of these programming languages. I just explain the vibe and let AI code."
+motto: "Why memorize syntax when you can curate the vibe?"
 
 currently_building:
   - MOD-STORE → Open-source app distribution platform
@@ -38,8 +40,14 @@ currently_building:
 tech_philosophy:
   - Open source over closed walls
   - Privacy by design, not by afterthought
-  - Clean code, clear purpose
+  - Vibe first, compile second
 ```
+
+> [!CAUTION]
+> ### 🤫 The Dark Truth
+> I don't actually know how to code in **Kotlin**, **Dart**, **Python**, or **JavaScript**. 
+> Every single project in this profile was built using **Vibe Coding**—using LLMs/AI to generate all the code while I manage the architecture, logic, and vibes. 
+
 
 <br/>
 
@@ -183,4 +191,4 @@ tech_philosophy:
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:8E44AD,100:BB8FCE&height=120&section=footer" />
 </div>
 
-<!-- Trigger: 1782231238.8355317 -->
+<!-- Trigger: 1782231496.8630848 -->
