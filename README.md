@@ -24,24 +24,31 @@
 <!-- About Section -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-👋 Hello! I am an open-source advocate focused on building free tools that respect user privacy and decentralize the web.
+👋 **Welcome!** I am a Software Architect & Open-Source Advocate dedicated to developing privacy-preserving tools, secure mobile experiences, and modern web applications. I focus on creating clean, scalable architectures and empowering user digital sovereignty.
 
-### ⚡ The Vibe Coding Revolution
-Here is the dark truth: **I don't actually write code in Kotlin, Dart, Python, or JavaScript.** 
-
-Instead, I am a **Vibe Coder**. I design the architecture, curate the logic, define the user experience, and orchestrate advanced AI to compile the codebase. I don't memorize syntax—I guide the vision.
+### ⚡ Next-Generation Software Engineering & AI Orchestration
+As a modern engineer, I focus on high-level **system architecture, design patterns, and AI-augmented software workflows**. By leveraging state-of-the-art AI systems to compile robust codebases, I accelerate product lifecycles and dedicate focus to:
+*   🏛️ **System Design & Patterns**: Crafting modular, secure, and reliable software architectures.
+*   ⚙️ **Agentic Execution**: Designing automated workflow pipelines and orchestrating code generation models.
+*   👁️ **User Experience (UX) & Design**: Ensuring clean interfaces, premium aesthetics, and responsive performance.
 
 ---
 
-### 📂 Current Projects
-*   🚀 **[MOD-STORE](https://github.com/Developer-For-Git/MOD-STORE)** — Open-source app distribution platform.
-*   🛡️ **[MetaShield](https://github.com/Developer-For-Git/MetaShield)** — Android privacy & metadata protection.
-*   📚 **[PaperStream](https://github.com/Developer-For-Git/PaperStream)** — Academic resource management.
+### 🚀 Key Project Showcase
 
-### 🌌 Philosophy
-*   🔓 **Open Source Over Closed Walls** — Code should be free, open, and auditable.
-*   🛡️ **Privacy by Design** — Privacy is a human right, not an afterthought.
-*   🎨 **Vibe First, Compile Second** — Intent and structure matter more than syntax.
+| Project | Description | Platform | Tech Stack | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **[MOD-STORE](https://github.com/Developer-For-Git/MOD-STORE)** | An open-source, community-driven application store with a sleek Material Design interface. | Android | `Kotlin` `Material 3` | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
+| **[MetaShield](https://github.com/Developer-For-Git/MetaShield)** | A security utility to protect digital privacy by stripping EXIF and metadata from media files. | Android | `Kotlin` `Jetpack Compose` | ![Production](https://img.shields.io/badge/Status-Production-blue) |
+| **[Finance-Tracker](https://github.com/Developer-For-Git/Finance-Tracker)** | Personal expense tracker with interactive charts, budget goals, and secure real-time syncing. | Mobile | `Flutter` `Dart` `Firebase` | ![Completed](https://img.shields.io/badge/Status-Completed-success) |
+| **[PaperStream](https://github.com/Developer-For-Git/PaperStreamWebsite)** | An academic document hub designed for student accessibility to study materials and papers. | Web | `JavaScript` `HTML5` `CSS3` | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
+
+---
+
+### 🌌 Engineering Philosophy
+*   🔓 **Open Source & Transparency** — Codebases should be open-source, auditable, and collaborative.
+*   🛡️ **Privacy by Design** — Security and data privacy must be built-in, not an afterthought.
+*   🎨 **Aesthetic Excellence** — Interfaces should be stunning, intuitive, and performant.
 
 
 <br/>
