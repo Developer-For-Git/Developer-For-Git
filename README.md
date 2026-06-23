@@ -24,29 +24,24 @@
 <!-- About Section -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-```yaml
-name: Developer-For-Git
-role: Open-Source Developer & Privacy Advocate
-focus: Building free tools that respect user privacy
-workflow: "100% AI Vibe Coding ⚡"
-dark_truth: "I don't actually know any of these programming languages. I just explain the vibe and let AI code."
-motto: "Why memorize syntax when you can curate the vibe?"
+👋 Hello! I am an open-source advocate focused on building free tools that respect user privacy and decentralize the web.
 
-currently_building:
-  - MOD-STORE → Open-source app distribution platform
-  - MetaShield → Android privacy & metadata protection
-  - PaperStream → Academic resource management
+### ⚡ The Vibe Coding Revolution
+Here is the dark truth: **I don't actually write code in Kotlin, Dart, Python, or JavaScript.** 
 
-tech_philosophy:
-  - Open source over closed walls
-  - Privacy by design, not by afterthought
-  - Vibe first, compile second
-```
+Instead, I am a **Vibe Coder**. I design the architecture, curate the logic, define the user experience, and orchestrate advanced AI to compile the codebase. I don't memorize syntax—I guide the vision.
 
-> [!CAUTION]
-> ### 🤫 The Dark Truth
-> I don't actually know how to code in **Kotlin**, **Dart**, **Python**, or **JavaScript**. 
-> Every single project in this profile was built using **Vibe Coding**—using LLMs/AI to generate all the code while I manage the architecture, logic, and vibes. 
+---
+
+### 📂 Current Projects
+*   🚀 **[MOD-STORE](https://github.com/Developer-For-Git/MOD-STORE)** — Open-source app distribution platform.
+*   🛡️ **[MetaShield](https://github.com/Developer-For-Git/MetaShield)** — Android privacy & metadata protection.
+*   📚 **[PaperStream](https://github.com/Developer-For-Git/PaperStream)** — Academic resource management.
+
+### 🌌 Philosophy
+*   🔓 **Open Source Over Closed Walls** — Code should be free, open, and auditable.
+*   🛡️ **Privacy by Design** — Privacy is a human right, not an afterthought.
+*   🎨 **Vibe First, Compile Second** — Intent and structure matter more than syntax.
 
 
 <br/>
@@ -191,4 +186,4 @@ tech_philosophy:
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:8E44AD,100:BB8FCE&height=120&section=footer" />
 </div>
 
-<!-- Trigger: 1782231496.8630848 -->
+<!-- Trigger: 1782231622.3752337 -->
