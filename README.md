@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:8E44AD,100:BB8FCE&height=220&section=header&text=Developer-For-Git&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20Open-Source%20Tools%20for%20Everyone&descSize=16&descAlignY=55&descColor=E8DAEF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:0284c7,100:38bdf8&height=220&section=header&text=Developer-For-Git&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20Open-Source%20Tools%20for%20Everyone&descSize=16&descAlignY=55&descColor=bae6fd" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/Developer-For-Git">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=BB8FCE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%A5+Open-Source+Enthusiast+%7C+Android+Developer;%F0%9F%9B%A1%EF%B8%8F+Privacy+Advocate+%7C+Full-Stack+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%A5+Open-Source+Enthusiast+%7C+Android+Developer;%F0%9F%9B%A1%EF%B8%8F+Privacy+Advocate+%7C+Full-Stack+Builder" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Developer-For-Git&style=for-the-badge&color=6C3483&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Developer-For-Git&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/Developer-For-Git?tab=followers">
-  <img src="https://img.shields.io/github/followers/Developer-For-Git?style=for-the-badge&color=8E44AD&labelColor=1a1a2e&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/Developer-For-Git?style=for-the-badge&color=38bdf8&labelColor=1e293b&logo=github" alt="Followers"/>
 </a>
 
 </div>
@@ -77,21 +77,21 @@ Instead, I am a **Vibe Coder**. I design the architecture, curate the logic, def
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Developer-For-Git&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=BB8FCE&icon_color=8E44AD&text_color=c9d1d9&ring_color=8E44AD&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Developer-For-Git&theme=midnight-purple&hide_border=true&background=0D1117&stroke=BB8FCE&ring=8E44AD&fire=BB8FCE&currStreakLabel=BB8FCE&sideLabels=BB8FCE&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6C3483" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Developer-For-Git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0284c7&text_color=c9d1d9&ring_color=38bdf8&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Developer-For-Git&theme=tokyonight&hide_border=true&background=0D1117&stroke=38bdf8&ring=0284c7&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=0284c7" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-For-Git&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=BB8FCE&text_color=c9d1d9&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-For-Git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <br/>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-For-Git&bg_color=0d1117&color=BB8FCE&line=8E44AD&point=BB8FCE&area=true&area_color=6C3483&hide_border=true&custom_title=Contribution%20Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-For-Git&bg_color=0d1117&color=38bdf8&line=0284c7&point=38bdf8&area=true&area_color=1e293b&hide_border=true&custom_title=Contribution%20Graph" />
 </div>
 
 <br/>
@@ -102,17 +102,17 @@ Instead, I am a **Vibe Coder**. I design the architecture, curate the logic, def
 <div align="center">
 
 <a href="https://github.com/Developer-For-Git/MOD-STORE">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-For-Git&repo=MOD-STORE&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=BB8FCE&icon_color=8E44AD&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-For-Git&repo=MOD-STORE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0284c7&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Developer-For-Git/MetaShield">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-For-Git&repo=MetaShield&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=BB8FCE&icon_color=8E44AD&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-For-Git&repo=MetaShield&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0284c7&text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/Developer-For-Git/MOD-STORE-WEB-PC">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-For-Git&repo=MOD-STORE-WEB-PC&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=BB8FCE&icon_color=8E44AD&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-For-Git&repo=MOD-STORE-WEB-PC&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0284c7&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Developer-For-Git/Finance-Tracker">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-For-Git&repo=Finance-Tracker&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=BB8FCE&icon_color=8E44AD&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Developer-For-Git&repo=Finance-Tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0284c7&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -176,14 +176,12 @@ Instead, I am a **Vibe Coder**. I design the architecture, curate the logic, def
 
 <!-- Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <br/>
 
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:8E44AD,100:BB8FCE&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:0284c7,100:38bdf8&height=120&section=footer" />
 </div>
-
-<!-- Trigger: 1782231622.3752337 -->
